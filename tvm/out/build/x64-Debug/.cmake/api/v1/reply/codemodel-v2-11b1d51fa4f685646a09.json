@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tvm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cpptest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpptest-Debug-b78ba82fba131e7d1a0d.json",
+					"name" : "cpptest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "runtime::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-runtime-Debug-6db3018cd32c945cae22.json",
+					"name" : "runtime",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tvm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tvm-Debug-567a84d708b85ef7bf40.json",
+					"name" : "tvm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tvm_runtime::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tvm_runtime-Debug-0f5cc6b9054254a9c8cc.json",
+					"name" : "tvm_runtime",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tvm_topi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tvm_topi-Debug-ee42b04b364cb4d59a87.json",
+					"name" : "tvm_topi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "X:/wujq/tvm0113/tvm/out/build/x64-Debug",
+		"source" : "X:/wujq/tvm0113/tvm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,10 @@
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/tvm.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/tvm_topi.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/tvm_runtime.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/cpptest.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/runtime.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/install.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+X:/wujq/tvm0113/tvm/out/build/x64-Debug/CMakeFiles/install/local.dir
